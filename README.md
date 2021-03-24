@@ -1,3 +1,5 @@
+use [jangxx's fork](https://github.com/jangxx/netflix-1080p) instead it's better
+
 # netflix-1080p
 Chrome extension to play Netflix in 1080p and 5.1
 
